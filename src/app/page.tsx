@@ -1,17 +1,11 @@
 import Image from "next/image"
 import banner2 from "../../image/banner2.png"
-// import arrowclick from "../../image/arrow-click.png"
 import limitless from "../../image/limitless-text1.png"
 import growth from "../../image/growth01.png"
 import React from "react"
 import evaluation from "../../image/2.png"
 import Button from "./button"
 import bg1 from "./../../image/transforming-bg4.png"
-import slider1 from "./../../image/1.png"
-import slider2 from "./../../image/2.png"
-import slider3 from "./../../image/3.png"
-import slider4 from "./../../image/4.png"
-import dot1 from "./../../image/dotted-bg-pattern1.svg"
 import dot2 from "./../../image/dotted-bg-pattern2.svg"
 import hand from "./../../image/hand-full.png"
 
@@ -34,7 +28,7 @@ export default function HomePaage(){
       <section className="bg-black h-screen">
         <div className="w-2/4 ml-[580px]">
 
-        <p className="text-white  text-3xl   ">Examining your brand's performance, we identify strengths and growth opportunities to elevate it. Our goal is to simplify and clarify your brand's message for universal understanding.</p>
+        <p className="text-white  text-3xl   ">Examining your {"brand's"} performance, we identify strengths and growth opportunities to elevate it. Our goal is to simplify and clarify your {`brand's`} message for universal understanding.</p>
        <div className=""> <br />< Button /></div>
         </div>
       </section>

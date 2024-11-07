@@ -24,7 +24,7 @@ export default function About (){
                 </div>
                 <div className="text-white w-1/2  ">
                 <h2 className="text-6xl" >Our <span className=" bg-gradient-to-r from-[#6d84eb] via-[#6F26E2] to-[#6F26E2] bg-clip-text text-transparent">story</span></h2>
-                <h3 className="text-xl mt-3 w-[540px]" >Welcome to Emaar Brand, the world of innovation and growth! Founded in 2023, we are an ecommerce acquisition and scaling company based in the vibrant landscape of the United Arab Emirates, with a keen eye on the rich tapestry of Pakistani brands. Our journey is a testament to the power of collaboration and the pursuit of excellence. From our humble beginning, we've been on a mission to discover, acquire and elevate the finest brands from Pakistan, bringing them to a global stage. Our passion for fostering success drivers us to constantly seek out new opportunities and forge meaningful partnerships.</h3>
+                <h3 className="text-xl mt-3 w-[540px]" >Welcome to Emaar Brand, the world of innovation and growth! Founded in 2023, we are an ecommerce acquisition and scaling company based in the vibrant landscape of the United Arab Emirates, with a keen eye on the rich tapestry of Pakistani brands. Our journey is a testament to the power of collaboration and the pursuit of excellence. From our humble beginning, {"we've"} been on a mission to discover, acquire and elevate the finest brands from Pakistan, bringing them to a global stage. Our passion for fostering success drivers us to constantly seek out new opportunities and forge meaningful partnerships.</h3>
                 </div>
                     
 

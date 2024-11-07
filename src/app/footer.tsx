@@ -1,4 +1,3 @@
-import Link from "next/link"
 import mailIcon from "./../../image/email.png"
 import Image from "next/image"
 import whatIcon from "./../../image/whatsapp.png"
@@ -13,7 +12,7 @@ export default function Footer (){
          </div> 
          <div className="pl-1 w-[50%} py-48">
                  <h3 className="text-white text-[26px]">Curious to know how we roll out the magic?</h3>
-                 <h4 className="text-white mt-12 text-[28px]">We'd love to share it too. Get in touch!</h4>
+                 <h4 className="text-white mt-12 text-[28px]">{"We'd"} love to share it too. Get in touch!</h4>
                  <div className="text-[28px]">
                     <a className="text-white"  href="mailto:contact@emaarbrands.com">contact@emaarbrands.com</a>
                  </div>
